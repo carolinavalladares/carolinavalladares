@@ -1,4 +1,4 @@
-### Hi, I'm Carolina 👋
+### Hi, I'm Carol 👋
 
 <div align="center dir="auto">
 <a>
