@@ -1,6 +1,6 @@
 ### Hi, I'm Carol 👋
 
-<div align="center dir="auto">
+<!-- <div align="center dir="auto">
 <a>
 <img width="40" src="https://user-images.githubusercontent.com/84996315/220206934-82274885-4b04-481d-a5dc-19c4ead9f801.svg"/>
 </a><a>
@@ -20,7 +20,7 @@
   </a><a>
 <img width="40" src="https://user-images.githubusercontent.com/84996315/220207033-c2586261-953e-46fa-9057-c0bedfec8e9c.svg"/>
   </a>
-</div>
+</div> -->
 
 
 
