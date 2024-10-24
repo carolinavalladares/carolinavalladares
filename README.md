@@ -4,7 +4,6 @@
 - **Languages:** JavaScript, TypeScript
 - **Frameworks:** React, Next.js
 - **Markup/Styling:** HTML, CSS, Tailwind CSS
-- **Skills:** Responsive Design, UI Development
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carolina-valladares-642b561a1/)
