@@ -2,7 +2,7 @@
 
 ## 🚀 Tech Stack
 - **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Next.js
+- **Frameworks:** React, Next.js, Ruby on Rails, Laravel
 - **Markup/Styling:** HTML, CSS, Tailwind CSS
 
 ## 📫 Let's Connect
