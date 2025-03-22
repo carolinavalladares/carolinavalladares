@@ -1,8 +1,8 @@
 ### Hi, I'm Carol 👋
 
 ## 🚀 Tech Stack
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Next.js, Ruby on Rails, Laravel
+- **Languages:** JavaScript, TypeScript, Ruby
+- **Frameworks:** React, Next.js, Ruby on Rails
 - **Markup/Styling:** HTML, CSS, Tailwind CSS
 
 ## 📫 Let's Connect
